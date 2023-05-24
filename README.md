@@ -19,4 +19,4 @@ The results of this project will provide valuable insights into the performance 
 * [Scikit Learn](http://scikit-learn.org/)
 * [Mahotas](http://mahotas.readthedocs.io/en/latest/)
 
-It is recommended to use [Anaconda Python 3.6 distribution](https://www.anaconda.com) and using a `Jupyter Notebook`
+It is recommended to use [Anaconda Python 3.10 distribution](https://www.anaconda.com) and using a `Jupyter Notebook`
