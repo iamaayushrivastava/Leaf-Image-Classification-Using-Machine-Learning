@@ -1,4 +1,4 @@
-# Leaf-Image-Classification-Using-Machine-Learning
+# Leaf Image Classification Using Machine Learning
 
 ## Overview
 
